@@ -28,7 +28,7 @@ To see LIRI Bot in action, run the following in your command line:
 
 #### Screenshot
 
-![alt text](screenshots/Liri Bot_Concert-this.png "Concert-This Screenshot")
+<img width="690" alt="liri bot_concert-this" src="https://user-images.githubusercontent.com/38221513/47469444-fc3ea980-d7ce-11e8-9669-86605085a039.png">
 
 
 `node liri.js spotify-this-song '<song name here>'`
@@ -37,6 +37,8 @@ To see LIRI Bot in action, run the following in your command line:
 
 #### Screenshot
 
+<img width="1029" alt="liri bot_spotify-this-song" src="https://user-images.githubusercontent.com/38221513/47469591-a61e3600-d7cf-11e8-98ce-e084ff7a6645.png">
+
 
 `node liri.js movie-this '<movie name here>'`
 
@@ -44,6 +46,7 @@ To see LIRI Bot in action, run the following in your command line:
 
 #### Screenshot
 
+<img width="1031" alt="liri bot_movie-this" src="https://user-images.githubusercontent.com/38221513/47469628-dcf44c00-d7cf-11e8-8d58-bf4e336b6443.png">
 
 `node liri.js do-what-it-says`
 
@@ -51,6 +54,7 @@ To see LIRI Bot in action, run the following in your command line:
 
 #### Screenshot
 
+<img width="1037" alt="liri bot_do-what-it-says" src="https://user-images.githubusercontent.com/38221513/47469659-01502880-d7d0-11e8-94e8-d3212d2de20f.png">
 
 ## Programs Used
 
