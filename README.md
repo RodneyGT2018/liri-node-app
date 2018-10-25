@@ -28,7 +28,7 @@ To see LIRI Bot in action, run the following in your command line:
 
 #### Screenshot
 
-liri-node-app/Liri Bot_Concert-this.png
+![alt text](screenshots/Liri Bot_Concert-this.png "Concert-This Screenshot")
 
 
 `node liri.js spotify-this-song '<song name here>'`
