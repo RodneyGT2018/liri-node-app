@@ -1,10 +1,11 @@
-# LIRI-Node-App
+# LIRI Bot
 This is a LIRI application (Language Interpretation and Recognition Interface) that utilizes a command line node app to accept input and return data. Specifically, a user can run “node liri.js” and include one of the following commands and it will output the data related to the user's request.
 
 - `concert-this` + artist name
 - `spotify-this-song` + song name
 - `movie-this` + movie name
 - `do-what-it-says`
+
 
 ## Getting Started
 
@@ -55,6 +56,7 @@ To see LIRI Bot in action, run the following in your command line:
 #### Screenshot
 
 <img width="1037" alt="liri bot_do-what-it-says" src="https://user-images.githubusercontent.com/38221513/47469659-01502880-d7d0-11e8-94e8-d3212d2de20f.png">
+
 
 ## Programs Used
 
