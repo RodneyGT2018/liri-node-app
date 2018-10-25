@@ -1,3 +1,4 @@
+# LIRI-Node-App
 This is a LIRI application (Language Interpretation and Recognition Interface) that utilizes a command line node app to accept input and return data. Specifically, a user can run “node liri.js” and include one of the following commands and it will output the data related to the user's request.
 
     - `concert-this` + artist name
